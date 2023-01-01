@@ -48,3 +48,6 @@ app.*.map.json
 # fvm
 .fvm/flutter_sdk
 
+# Generate Files
+**.graphql.dart
+**.g.dart
