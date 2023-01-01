@@ -1,0 +1,5 @@
+fragment PokeFragment on Pokemon {
+    number
+    name
+    image
+}

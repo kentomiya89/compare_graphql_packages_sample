@@ -1,0 +1,5 @@
+query KantoPokemon {
+    pokemons(first:151) {
+        ...PokeFragment
+    }
+}
