@@ -1,4 +1,4 @@
-package com.example.compare_graphql_packages_sample
+package artemis.pokemon.sample
 
 import io.flutter.embedding.android.FlutterActivity
 

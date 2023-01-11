@@ -1,8 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.compare_graphql_packages_sample">
+    package="artemis.pokemon.sample">
    <application
-        android:label="compare_graphql_packages_sample"
-        android:name="${applicationName}"
+        android:label="artemis_pokemon_sample"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
