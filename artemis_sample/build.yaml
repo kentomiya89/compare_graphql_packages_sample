@@ -6,7 +6,7 @@ targets:
       artemis:
         options:
            schema_mapping:
-            - schema: lib/pokemon.graphql
-              output: lib/artemis/pokemon_api.dart
-              queries_glob: lib/artemis/**.graphql
+            - schema: lib/schema/pokemon.graphql
+              output: lib/pokemon_api.dart
+              queries_glob: lib/query/**.graphql
               fragments_glob: lib/fragments/**.graphql

@@ -8,21 +8,21 @@
             "name": "artemis",
             "request": "launch",
             "type": "dart",
-            "program": "lib/artemis_main.dart"
+            "program": "lib/main.dart"
         },
         {
             "name": "artemis (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile",
-            "program": "lib/artemis_main.dart"
+            "program": "lib/main.dart"
         },
         {
             "name": "artemis (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release",
-            "program": "lib/artemis_main.dart"
+            "program": "lib/main.dart"
         }
     ]
 }

@@ -1,6 +1,6 @@
 import 'package:artemis/artemis.dart';
-import 'package:compare_graphql_packages_sample/artemis/pokemon_api.dart';
-import 'package:compare_graphql_packages_sample/define.dart';
+import 'package:artemis_sample/define.dart';
+import 'package:artemis_sample/pokemon_api.graphql.dart';
 import 'package:flutter/material.dart';
 
 void main() {
